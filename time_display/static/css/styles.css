@@ -1,0 +1,28 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family:'Courier New', Courier, monospace
+}
+
+#heading {
+    border-style: solid;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    margin-right: auto; 
+    margin-left: auto;
+}
+
+#time {
+    border-style: solid;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    margin:0 auto;
+}
